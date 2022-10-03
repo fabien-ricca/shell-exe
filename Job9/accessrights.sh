@@ -1,4 +1,4 @@
-#!/nix/store/fq9y3qc1vczbs2wqslz0cxccrrk71iy1-bash-interactive-5.1-p16/bin/bash
+#!/bin/bash
 
 # On attribut le fchier à une variable pour simplifier plus loin
 file="./userlist.csv"
